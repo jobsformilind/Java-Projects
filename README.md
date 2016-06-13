@@ -1,3 +1,2 @@
 # Java-Projects
-
-- Sample Java Projects
+Sample Java Projects
