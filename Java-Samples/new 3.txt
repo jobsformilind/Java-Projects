@@ -1,0 +1,33 @@
+Requires a bachelor's degree in Computer Science or relevant discipline and at least 5 years of experience in the field: 
+- 5+ years of hands-on development experience using JEE technologies (Servlet, JSP, JDBC, JMS, Web Services etc.) 
+- Solid concept of Java, OOP, design patterns etc. 
+- Strong experience in using application frameworks such as Spring, Hibernate, iBatis, JUnit, JQuery etc. 
+- Good understanding of network protocols and web technologies such as TCP/IP, HTTP, JavaScript, AJAX etc. 
+- Thorough knowledge of XML, JSON and other data transport protocols 
+- Good grasp of industry best practices in enterprise-class software development 
+- Experience in front-end and JavaScript development tools like HTML5, CSS, Node JS, Angular JS, Backbone JS, JQuery Mobile etc.
+
+
+Bucket sort.
+Bubble sort.
+Insertion sort.
+Selection sort.
+Heapsort.
+Mergesort.
+
+SOA:
+An architectural pattern in computer software design in which application components provide services to other components via a communications protocol, typically over a network. 
+SOA as an architecture relies on service-orientation.
+The principles of service-orientation are independent of any vendor, product or technology.
+A service is a self-contained unit of functionality
+Services are unassociated, loosely coupled units of functionality that are self-contained.
+
+
+
+
+
+
+
+
+
+
