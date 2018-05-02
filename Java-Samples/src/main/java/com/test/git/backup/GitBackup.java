@@ -15,7 +15,7 @@ import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 
-public class Main {
+public class GitBackup {
 	private static String ignored = "hellooo,delllo";//".classpath,.gitignore,.project,.settings,.gradle,js-build";
 	private static SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd-HH-mm");
 	private static String source = "";
